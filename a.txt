@@ -1,11 +1,5 @@
 a
-a-1
-a-2
 b
 c
-cc-1
-cc-2
 d
-ddd-1
-ddd-2
 e
